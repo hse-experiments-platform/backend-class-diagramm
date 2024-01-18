@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	_ = datasets.Dataset{Field:123}
+	_ = datasets.Dataset{}
 }
